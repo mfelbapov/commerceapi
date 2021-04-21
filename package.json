@@ -1,0 +1,22 @@
+{
+  "name": "commerceapi",
+  "version": "1.0.0",
+  "description": "backend api for commerce framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfelbapov/commerceapi.git"
+  },
+  "author": "Milorad Felbapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfelbapov/commerceapi/issues"
+  },
+  "homepage": "https://github.com/mfelbapov/commerceapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
